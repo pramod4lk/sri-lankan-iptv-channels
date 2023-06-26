@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:50,Bloomberg TV Asia Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:30,Haritha TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCSe8uUIt3EM83y9N0WHSx_w.m3u8
+#EXTINF:10354,ITN (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
+#EXTINF:29,Rupavahini (480p)
+#EXTVLCOPT:network-caching=1000
+http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
+#EXTINF:30,Shraddha TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UC1WREaxq8LRhdOOmzSFg2pA.m3u8
+#EXTINF:24,Swarnavahini (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
+#EXTINF:1,The Buddhist (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UC37lrcLuvJmWDoooxwiPXXA.m3u8
+#EXTINF:30,TV Derana (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng.m3u8
+#EXTINF:10346,Vasantham TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
